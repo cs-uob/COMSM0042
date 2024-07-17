@@ -34,16 +34,17 @@ Quoting the catalogue entry, the remit of this unit can be summarised as follows
 
 Note that
 
-- The somewhat complex curriculum structure means this unit is divided into
-  the            *teaching*   unit
+- Our somewhat complex curriculum structure means this unit is divided into
+  a          *teaching*   unit
   [COMSM0042](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0042),
   plus
-  the associated *assessment* units
+  associated *assessment* units
   [COMSM0153](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0153) (as a major option)
   and
   [COMSM0158](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?unitCode=COMSM0158) (as a minor option):
-  although COMSM0042 is usually a valid catch-all, in certain cases you may
-  need to take care re. use of the correct unit code.
+  although 
+  COMSM0042
+  is usually a valid catch-all, in certain contexts care is needed re. use of the correct unit code.
 - An associated 
   [GitHub](https://github.com/)-based [repo.](https://github.com/cs-uob/COMSM0042)
   houses the source code for this web-page, plus various other
@@ -54,8 +55,7 @@ Note that
    *static* content 
   as possible, selected but important
   *dynamic* content 
-  is still only 
-  accessible "inside" UoB and so via the associated
+  is only accessible via the associated
   [Blackboard web-page](https://www.ole.bris.ac.uk):
   important examples include
   any unit announcements,
