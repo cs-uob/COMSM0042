@@ -1,0 +1,14 @@
+side:
+  - title: "Internal"
+    children:
+      - title: "Home"
+        url: "/"
+      - title: "Material"
+        url: "/material"
+
+  - title: "External"
+    children:
+      - title: "COMSM0042 via Blackboard"
+        url: "https://www.ole.bris.ac.uk"
+      - title: "COMSM0042 via GitHub"
+        url: "https://www.github.com/cs-uob/COMSM0042"

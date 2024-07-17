@@ -1,0 +1,50 @@
+url: "https://cs-uob.github.io"
+baseurl: "/COMSM0042"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+title: "COMSM0042"
+subtitle: "Advanced Cryptology"
+title_separator: "|"
+
+repository: "cs-uob/COMSM0042"
+copyright: "COMSM0042"
+copyright_url: "https://cs-uob.github.io/COMSM0042"
+minimal_mistakes_skin: "contrast"
+locale: "en"
+enable_copy_code_button: true
+breadcrumbs: false
+search: false
+atom_feed:
+  hide: true
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      header:
+        image: "/assets/image/banner.png"
+      sidebar:
+        nav: "side"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bristolcs"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cs-uob"
