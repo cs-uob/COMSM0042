@@ -66,6 +66,5 @@ Note that
 # Contact Us
 
 - Daniel Page (Lecturer and Unit Director): [`daniel.page@bristol.ac.uk`](mailto:daniel.page@bristol.ac.uk?subject=COMSM0042)
-
-
-
+- Sophie Stevens (Lecturer): [`sophie.stevens@bristol.ac.uk`](mailto:sophie.stevens@bristol.ac.uk?subject=COMSM0042)
+- Luciano Maino (Lecturer): [`luciano.maino@bristol.ac.uk`](mailto:luciano.maino@bristol.ac.uk?subject=COMSM0042)
